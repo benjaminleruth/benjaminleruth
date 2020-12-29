@@ -4,9 +4,10 @@ role: Assistant Professor in European Politics and Society
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - European integration
+  - Comparative welfare politics and policy
+  - Transnational governance
+  - Democratic innovations
 social:
   - icon: envelope
     icon_pack: fas
