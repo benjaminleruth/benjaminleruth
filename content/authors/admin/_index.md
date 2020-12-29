@@ -45,3 +45,7 @@ superuser: true
 highlight_name: false
 ---
 I am an Assistant Professor in European Politics and Society at the University of Groningen specializing in comparative politics and welfare policy, Euroscepticism, democratic innovations, and differentiated European (dis)integration.
+
+I recently published work on the 
+
+You can find more information about my current projects and publications below. Please do not hesitate to get in touch.
