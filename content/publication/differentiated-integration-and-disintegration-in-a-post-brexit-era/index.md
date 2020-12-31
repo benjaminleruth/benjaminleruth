@@ -4,7 +4,7 @@ publication_types:
   - "5"
 authors:
   - Stefan Gänzle
-  - admin
+  - "[b]admin[/b]"
   - Jarle Trondal
 publication: Routledge
 abstract: >-
