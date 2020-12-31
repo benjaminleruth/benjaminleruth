@@ -7,6 +7,7 @@ authors:
   - Peter Taylor-Gooby
   - admin
   - Heejung Chung
+publication: Oxford University Press
 abstract: >-
   European welfare states are undergoing profound change, driven by
   globalization, technical changes, and population ageing. More immediately, the
