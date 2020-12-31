@@ -25,5 +25,10 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+summary: This book examines welfare state transformations across a
+  representative range of European countries and at the EU level, and considers
+  likely new directions in social policy. It reviews the dominant neo-liberal
+  austerity response and discusses social investment, fightback, welfare
+  chauvinism, and protectionism.
 date: 2017-12-31T10:36:00.000Z
 ---
