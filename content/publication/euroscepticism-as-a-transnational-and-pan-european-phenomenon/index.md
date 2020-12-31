@@ -24,7 +24,7 @@ abstract: >-
 
   This text will be of key interest to scholars, students and professionals in EU politics, European studies, political parties, and more broadly to comparative politics and international relations.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.jpg
   focal_point: Smart
