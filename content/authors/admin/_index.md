@@ -50,6 +50,6 @@ I recently published work focusing on:
 
 1. [Whether differentiation is a response to crises in the European Union](https://www.taylorfrancis.com/chapters/differentiation-response-crises-benjamin-leruth/e/10.4324/9781003001423-12); 
 2. [How innovative task environments might stimulate citizens' political efficac](https://www.ingentaconnect.com/content/tpp/pap/2020/00000048/00000003/art00001;jsessionid=3ijmtu3d2egbq.x-ic-live-01)[y;](https://uia.brage.unit.no/uia-xmlui/bitstream/handle/11250/2686741/Trondal10084.pdf?sequence=1)
-3. [Why transnational Nordic party families are becoming less relevant when it comes to European integration](https://uia.brage.unit.no/uia-xmlui/bitstream/handle/11250/2686741/Trondal10084.pdf?sequence=1).
+3. [Why transnational party families are becoming less relevant when it comes to shaping party positions towards European integration](https://uia.brage.unit.no/uia-xmlui/bitstream/handle/11250/2686741/Trondal10084.pdf?sequence=1).
 
 You can find more information about my current projects and publications below.
