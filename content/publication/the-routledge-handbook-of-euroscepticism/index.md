@@ -25,15 +25,12 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-summary: Bringing together a collection of essays by established and
-  up-and-coming authors in the field, this handbook paints a fuller, more
-  holistic picture of the extent to which the Eurosceptic debate has influenced
-  the EU and its member states. Crucially, it also focuses on what the
-  consequences of this development are likely to be for the future direction of
-  the European project. By adopting a broad-based, thematic approach, the volume
-  centres on theory and conceptualisation, political parties, public opinion,
-  non-party groups, the role of referendums – and the media – and of scepticism
-  within the EU institutions. It also reflects on the future of Euroscepticism
-  studies following the United Kingdom’s vote to leave the EU.
+summary: This handbook paints a holistic picture of the extent to which
+  Euroscepticism has influenced the EU and its member states. By adopting a
+  broad-based, thematic approach, the volume centres on theory and
+  conceptualisation, political parties, public opinion, non-party groups, the
+  role of referendums – and the media – and of scepticism within the EU
+  institutions. It also reflects on the future of Euroscepticism studies
+  following the United Kingdom’s vote to leave the EU.
 date: 2018-01-31T11:06:00.000Z
 ---
