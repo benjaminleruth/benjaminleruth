@@ -38,6 +38,19 @@ abstract: >
   caused by domestic-level factors, such as intra-party divisions, government participation and public opinion.
 draft: false
 featured: false
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://benjaminleruth.netlify.app/publication/party-positions-on-differentiated-european-integration-in-the-nordic-countries-growing-together-growing-apart/PaG.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 image:
   filename: ""
   focal_point: Smart
