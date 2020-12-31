@@ -5,7 +5,7 @@ publication_types:
   - "5"
 authors:
   - Peter Taylor-Gooby
-  - admin
+  - "**admin**"
   - Heejung Chung
 publication: Oxford University Press
 abstract: >-
