@@ -44,8 +44,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am an Assistant Professor in European Politics and Society at the University of Groningen specializing in comparative politics and welfare policy, Euroscepticism, democratic innovations, and differentiated European (dis)integration.
+I am an Assistant Professor in European Politics and Society at the University of Groningen specializing in comparative politics and welfare policy, Euroscepticism, democratic innovations, and differentiation in the European Union (both in terms of integration and disintegration).
 
-I recently published work on the 
+I recently published work focusing on [whether differentiation is a response to crises in the European Union](https://www.taylorfrancis.com/chapters/differentiation-response-crises-benjamin-leruth/e/10.4324/9781003001423-12), [how innovative task environments might stimulate citizens' political efficacy](https://www.ingentaconnect.com/content/tpp/pap/2020/00000048/00000003/art00001;jsessionid=3ijmtu3d2egbq.x-ic-live-01), and [why transnational Nordic party families are becoming less relevant when it comes to European integration](https://uia.brage.unit.no/uia-xmlui/bitstream/handle/11250/2686741/Trondal10084.pdf?sequence=1).
 
-You can find more information about my current projects and publications below. Please do not hesitate to get in touch.
+You can find more information about my current projects and publications below.
