@@ -30,7 +30,7 @@ summary: This handbook paints a holistic picture of the extent to which
   broad-based, thematic approach, the volume centres on theory and
   conceptualisation, political parties, public opinion, non-party groups, the
   role of referendums – and the media – and of scepticism within the EU
-  institutions. It also reflects on the future of Euroscepticism studies
-  following the United Kingdom’s vote to leave the EU.
+  institutions. It also reflects on the future of Euroscepticism studies in a
+  post-Brexit era.
 date: 2018-01-31T11:06:00.000Z
 ---
