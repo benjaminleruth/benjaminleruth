@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {faculty = "Faculty of Arts", street = "Oude Kijk in 't Jatstraat 26", postcode = "9712 EK Groningen", country = "The Netherlands", country_code = "NL"}
+address = {street = "Faculty of Arts, Oude Kijk in 't Jatstraat 26", postcode = "9712 EK Groningen", country = "The Netherlands", country_code = "NL"}
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
