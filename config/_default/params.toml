@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Faculty of Arts", street = "Oude Kijk in 't Jatstraat 26", postcode = "9712 EK Groningen", country = "The Netherlands", country_code = "NL"}
+address = {faculty = "Faculty of Arts", street = "Oude Kijk in 't Jatstraat 26", postcode = "9712 EK Groningen", country = "The Netherlands", country_code = "NL"}
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -224,7 +224,7 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
