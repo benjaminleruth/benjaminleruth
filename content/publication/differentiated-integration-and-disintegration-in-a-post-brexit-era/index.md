@@ -19,6 +19,8 @@ abstract: >-
   This book will be of key interest to scholar and students of European Union politics, European integration, Brexit, and more broadly to Public Administration, Law, Economics, Finance, Philosophy, History and International Relations.
 draft: false
 featured: true
+projects:
+  - euroscepticism
 image:
   filename: featured.jpg
   focal_point: Smart
