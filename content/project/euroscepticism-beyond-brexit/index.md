@@ -6,7 +6,7 @@ summary: How did Eurosceptic parties adapt to Brexit? In the context of the
   Euroscepticism?
 draft: false
 featured: true
-external_link: /
+external_link: false
 links: []
 image:
   filename: featured.png
