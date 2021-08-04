@@ -9,15 +9,12 @@ interests:
   - Transnational governance
   - Democratic innovations
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:b.j.j.leruth@rug.nl
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/BenLeruth
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=xJI3JgUAAAAJ&hl=en
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/BenLeruth
   - display:
       header: false
     icon_pack: ai
@@ -26,6 +23,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/benleruth/
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:b.j.j.leruth@rug.nl
 organizations:
   - name: University of Groningen
     url: https://www.rug.nl
