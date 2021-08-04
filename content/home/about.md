@@ -3,7 +3,7 @@ widget: about
 widget_id: about
 headless: true
 weight: 20
-title: Welcome to my personal website
+title: About me
 active: true
 author: admin
 ---
