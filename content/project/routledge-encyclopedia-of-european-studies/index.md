@@ -10,7 +10,7 @@ draft: false
 featured: false
 tags:
   - Encyclopedia
-external_link: encyclopedia
+external_link: false
 image:
   filename: featured.png
   focal_point: Smart
