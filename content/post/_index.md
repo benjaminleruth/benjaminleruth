@@ -1,14 +1,9 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+title: Er
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+date: 2021-08-05T11:54:46.071Z
 ---
+Er
