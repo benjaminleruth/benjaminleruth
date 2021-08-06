@@ -31,9 +31,9 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 90
+  weight = 120
 
 [[main]]
   name = "CV"
   url = "media/resume.pdf"
-  weight = 100
+  weight = 130
