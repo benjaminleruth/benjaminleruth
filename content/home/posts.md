@@ -41,4 +41,4 @@ Master Seminar: Democratic Innovations ([LYX017M10](https://www.rug.nl/ocasys/ru
 
 <!--EndFragment-->
 
-![screen reader text](Teaching1.jpg "Masterclass on Leading and Managing Change in the Public Sector, Australia, 2018")
+![](teaching1.jpg "Masterclass on Leading and Managing Change in the Public Sector, Australia, 2018")
