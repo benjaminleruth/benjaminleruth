@@ -10,6 +10,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+    image: rtbf.jpg
 ---
 Media
 
