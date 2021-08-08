@@ -20,7 +20,9 @@ content:
   order: desc
 design:
   view: 2
-  columns: "1"
+  columns: "2"
+  background:
+    image_darken: 0.5
 ---
 Over the past ten years, I have been designing introductory and specialised courses on a wide range of topics and aimed at different audiences, from first-year undergraduate students to Australian public servants. I am also a regular contributor to the University of Agder's [European Integration Summer School](https://www.uia.no/en/studier/european-integration-summer-school-eiss).   
 
