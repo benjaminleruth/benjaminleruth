@@ -48,3 +48,5 @@ Most recent courses taught:
 > Master Seminar: Democratic Innovations ([LYX017M10](https://www.rug.nl/ocasys/rug//vak/show?code=LYX017M10))
 
 <!--EndFragment-->
+
+![](header.jpg)
