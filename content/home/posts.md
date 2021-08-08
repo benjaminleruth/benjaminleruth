@@ -1,7 +1,7 @@
 ---
 widget: blank
 header:
-  image: header.png
+  image: header.jpg
   caption: Masterclass
 widget_id: teaching
 headless: true
