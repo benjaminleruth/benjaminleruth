@@ -23,6 +23,4 @@ design:
 ---
 I have been teaching........ 
 
-
-
-![]()
+![](teaching1.jpg)
