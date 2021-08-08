@@ -44,4 +44,6 @@ Most recent courses taught:
 
 <!--EndFragment-->
 
-![](profile.png)
+![]()
+
+![](teaching1.jpg)
