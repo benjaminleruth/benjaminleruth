@@ -30,18 +30,18 @@ Most recent courses taught:
 
 <!--StartFragment-->
 
-P&S 1: European (Dis)Integration ([LEU053P05](https://www.rug.nl/ocasys/rug//vak/show?code=LEU053P05))
-
-P&S 2: Applied Research Methods ([LEU054P05](https://www.rug.nl/ocasys/rug/vak/show?code=LEU054P05))
-
-P&S 5: Research Seminar: Euroscepticism and Differentiation in the European Union ([LEU051B05](https://www.rug.nl/ocasys/rug//vak/show?code=LEU051B05))
-
-P&S 7: Theorizing European and Global Politics 2 ([LEU115B05](https://www.rug.nl/ocasys/rug/vak/show?code=LEU115B05))
-
-P&S LS 1: French Politics and Society ([LEU064B05](https://www.rug.nl/ocasys/rug//vak/show?code=LEU064B05))
-
-Master Seminar: Democratic Innovations ([LYX017M10](https://www.rug.nl/ocasys/rug//vak/show?code=LYX017M10))
+> P&S 1: European (Dis)Integration ([LEU053P05](https://www.rug.nl/ocasys/rug//vak/show?code=LEU053P05))
+>
+> P&S 2: Applied Research Methods ([LEU054P05](https://www.rug.nl/ocasys/rug/vak/show?code=LEU054P05))
+>
+> P&S 5: Research Seminar: Euroscepticism and Differentiation in the European Union ([LEU051B05](https://www.rug.nl/ocasys/rug//vak/show?code=LEU051B05))
+>
+> P&S 7: Theorizing European and Global Politics 2 ([LEU115B05](https://www.rug.nl/ocasys/rug/vak/show?code=LEU115B05))
+>
+> P&S LS 1: French Politics and Society ([LEU064B05](https://www.rug.nl/ocasys/rug//vak/show?code=LEU064B05))
+>
+> Master Seminar: Democratic Innovations ([LYX017M10](https://www.rug.nl/ocasys/rug//vak/show?code=LYX017M10))
 
 <!--EndFragment-->
 
-![](teaching1.jpg "Masterclass on Leading and Managing Change in the Public Sector, Australia, 2018")
+![]()
