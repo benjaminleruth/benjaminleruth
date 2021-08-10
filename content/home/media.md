@@ -12,7 +12,7 @@ design:
     image_darken: 0
     image: ""
 ---
-I regularly comment on contemporary political events, such as domestic and European elections. In 2016, I offered [live comments and analyses](https://twitter.com/BenLeruth/status/1407646803038814208) on the Brexit referendum for the Belgian francophone television (RTBF). I also contributed to a BBC World Service radio broadcast entitled "[Why do we need the State?](https://www.bbc.co.uk/programmes/p033v73k)" with Timothy Snyder and Adrian Wooldridge. 
+I regularly comment on contemporary political events, such as domestic and European elections. I worked with several media outlets such as the BBC, STV, The Scotsman, Heart Radio, Vers l'Avenir and Radio France Internationale. In 2016, I offered [live comments and analyses](https://twitter.com/BenLeruth/status/1407646803038814208) on the Brexit referendum for the Belgian francophone television (RTBF). I also contributed to a BBC World Service radio broadcast entitled "[Why do we need the State?](https://www.bbc.co.uk/programmes/p033v73k)" with Timothy Snyder and Adrian Wooldridge. 
 
 Here are some of my recent (written) contributions to the public debate:
 
@@ -21,6 +21,6 @@ Here are some of my recent (written) contributions to the public debate:
 * De Volkskrant (The Netherlands): "[Frankrijk weer de straat op: wat kan Macron leren can Thatcher en Schröder?](https://www.volkskrant.nl/nieuws-achtergrond/frankrijk-weer-de-straat-op-wat-kan-macron-leren-van-thatcher-en-schroder~b3f9a0d1/)" (comment on the 2017 French protests)
 * Sydney Morning Herald (Australia): "[Emmanuel Macron heralds a new era, but can he run a country?](https://www.smh.com.au/world/frances-president-emmanuel-macron-heralded-a-new-era-but-can-he-run-a-country-20170623-gwwx1m.html)"
 
-
+I am available to provide comments related to my field of expertise (contemporary politics and elections, Euroscepticism, welfare politics and democratic innovations).
 
 ![](rtbf.jpg)
