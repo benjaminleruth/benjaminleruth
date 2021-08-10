@@ -29,7 +29,9 @@ design:
     image: ""
     text_color_light: false
 ---
-Over the past ten years, I have been designing introductory and specialised courses on a wide range of topics and aimed at different audiences, from first-year undergraduate students to Australian public servants. I am also a regular contributor to the University of Agder's [European Integration Summer School](https://www.uia.no/en/studier/european-integration-summer-school-eiss).   
+Over the past ten years, I have been designing introductory and specialised courses on a wide range of topics and aimed at different audiences, from first-year undergraduate students to senior Australian and Indonesian public servants. 
+
+I am also a regular contributor to the University of Agder's [European Integration Summer School](https://www.uia.no/en/studier/european-integration-summer-school-eiss). I was invited to give guest lectures on welfare politics, Euroscepticism and differentiation in the European Union at the Universities of Auckland (New Zealand), Oslo (Norway), Minho (Portugal) and the Free University of Brussels (Belgium). 
 
 Most recent courses taught:
 
