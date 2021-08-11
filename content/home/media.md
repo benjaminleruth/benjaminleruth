@@ -23,4 +23,4 @@ Here are some of my recent (written) contributions to the public debate:
 
 I am available to provide comments (in English or French) related to my field of expertise (contemporary politics and elections, Euroscepticism, welfare politics and democratic innovations).
 
-![](rtbf.jpg)
+![]()
