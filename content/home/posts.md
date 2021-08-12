@@ -35,7 +35,7 @@ I am also a regular contributor to the University of Agder's [European Integrati
 
 In my teaching, I always seek to promote the work of female and early career colleagues. The [following syllabus](https://drive.google.com/file/d/1YLTIkr7-U3-s8ZDTzqiVB_ZKMDDEbDZg/view?usp=sharing) (which I developed for a BA2 research seminar on "Crises and Euroscepticism") may be of interest to colleagues seeking to offer a diverse reading list. 
 
-Most recent courses taught:
+Most recent courses taught (reading lists can be sent on demand):
 
 > P&S 1: European (Dis)Integration ([LEU053P05](https://www.rug.nl/ocasys/rug//vak/show?code=LEU053P05))
 >
