@@ -27,7 +27,7 @@ design:
   background:
     image_darken: 0
     image: ""
-    text_color_light: true
+    text_color_light: false
 ---
 Over the past ten years, I have been designing introductory and specialised courses on a wide range of topics and aimed at different audiences, from first-year undergraduate students to senior Australian and Indonesian public servants. 
 
