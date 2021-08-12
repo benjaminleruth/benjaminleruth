@@ -35,8 +35,6 @@ I am also a regular contributor to the University of Agder's [European Integrati
 
 Most recent courses taught:
 
-<!--StartFragment-->
-
 > P&S 1: European (Dis)Integration ([LEU053P05](https://www.rug.nl/ocasys/rug//vak/show?code=LEU053P05))
 >
 > P&S 2: Applied Research Methods ([LEU054P05](https://www.rug.nl/ocasys/rug/vak/show?code=LEU054P05))
@@ -49,6 +47,3 @@ Most recent courses taught:
 >
 > Master Seminar: Democratic Innovations ([LYX017M10](https://www.rug.nl/ocasys/rug//vak/show?code=LYX017M10))
 
-<!--EndFragment-->
-
-![](header.jpg)
