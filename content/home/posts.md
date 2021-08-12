@@ -1,5 +1,5 @@
 ---
-widget: content
+widget: blank
 header:
   image: header.jpg
   caption: Masterclass
