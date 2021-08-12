@@ -4,9 +4,9 @@ role: Assistant Professor in European Politics and Society
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - European integration
   - Comparative welfare politics and policy
   - Transnational governance
+  - European integration
   - Democratic innovations
 social:
   - icon: google-scholar
