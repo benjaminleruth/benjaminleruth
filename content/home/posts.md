@@ -26,8 +26,8 @@ design:
   columns: "2"
   background:
     image_darken: 0
-    image: ""
-    text_color_light: false
+    image: teaching1.jpg
+    text_color_light: true
 ---
 Over the past ten years, I have been designing introductory and specialised courses on a wide range of topics and aimed at different audiences, from first-year undergraduate students to senior Australian and Indonesian public servants. 
 
@@ -47,4 +47,4 @@ Most recent courses taught:
 >
 > Master Seminar: Democratic Innovations ([LYX017M10](https://www.rug.nl/ocasys/rug//vak/show?code=LYX017M10))
 
-![](teaching1.jpg)
+![]()
