@@ -2,6 +2,8 @@
 title: "The Transformation of European Welfare States: Long-term challenges and
   opportunities"
 date: 2020-12-31T12:42:21.387Z
+summary: What lies ahead for the welfare state? How do welfare chauvinism,
+  welfare populism and welfare Euroscepticism challenge existing policies?
 draft: false
 featured: false
 external_link: false
