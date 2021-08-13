@@ -20,7 +20,7 @@ abstract: >-
 
   Attitudes, Aspirations and Welfare will be of interest to students and scholars across a range of disciplines including politics, social policy and sociology, as well as policy-makers.
 draft: false
-featured: false
+featured: true
 projects:
   - welfare
 image:
