@@ -30,6 +30,8 @@ experience:
     date_end: ''
     description: |2-
         
+        * Editor of Acta Politica (since 2021)
+        * Member of the Young Academy Groningen (since 2021)
         * Coordinator of the university-wide Democracy and Governance Research Network (since 2021)
         * Programme coordinator, BA European Languages and Cultures (since 2020)
         * Programme committee member, BA European Languages and Cultures (2019-20)
