@@ -44,7 +44,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Welcome to my website. I am an Assistant Professor in European Politics and Society at the University of Groningen specializing in comparative politics and welfare policy, Euroscepticism, democratic innovations, and differentiation in the European Union. 
+Welcome to my website. I am an Assistant Professor in European Politics and Society at the University of Groningen specializing in comparative politics and welfare policy, democratic innovations, differentiation in the European Union, and Euroscepticism. 
 
 At the University of Groningen, I act as Programme Coordinator for the [BA in European Languages and Cultures](https://www.rug.nl/bachelors/european-languages-and-cultures/?lang=en), and as Coordinator for the university-wide [Research Network on Democracy and Governance](https://www.rug.nl/sustainable-society/research/democracy-and-governance). I am also a member of the [Young Academy Groningen](https://www.rug.nl/research/young-academy/?lang=en) and co-Editor of [Acta Politica](https://www.palgrave.com/gp/journal/41269). 
 
