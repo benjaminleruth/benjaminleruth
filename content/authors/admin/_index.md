@@ -5,6 +5,7 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Comparative welfare politics and policy
+  - The politics of long-termism
   - Transnational governance
   - European integration
   - Democratic innovations
