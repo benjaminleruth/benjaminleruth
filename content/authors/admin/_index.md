@@ -49,6 +49,8 @@ Welcome to my website. I am an Assistant Professor in European Politics and Soci
 
 At the University of Groningen, I act as Programme Coordinator for the [BA in European Languages and Cultures](https://www.rug.nl/bachelors/european-languages-and-cultures/?lang=en), and as Coordinator for the university-wide [Research Network on Democracy and Governance](https://www.rug.nl/sustainable-society/research/democracy-and-governance). I am also a member of the [Young Academy Groningen](https://www.rug.nl/research/young-academy/?lang=en) and co-Editor of [Acta Politica](https://www.palgrave.com/gp/journal/41269). 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zVj_6QLLajI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 I recently published work focusing on: 
 
 1. [Whether differentiation is a response to crises in the European Union](https://www.taylorfrancis.com/chapters/differentiation-response-crises-benjamin-leruth/e/10.4324/9781003001423-12); 
@@ -56,5 +58,3 @@ I recently published work focusing on:
 3. [How citizens think of and support welfare policies in the long term](https://link.springer.com/book/10.1007/978-3-319-75783-4).
 
 You can find more information about my current projects and publications below.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zVj_6QLLajI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
