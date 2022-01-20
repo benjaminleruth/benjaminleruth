@@ -2,10 +2,14 @@
 title: The Routledge Handbook of Differentiation in the European Union
 publication_types:
   - "5"
+authors: []
 abstract: >-
   The Routledge Handbook of Differentiation in the European Union offers an
   essential collection of ground-breaking chapters reflecting on the causes and
-  consequences of this complex phenomenon.
+  consequences of this complex phenomenon. It is the product of a three-year
+  collaboration that started with the creation of a research network on
+  Differentiation in a post-Brexit Europe, funded by the University Association
+  for Contemporary European Studies (UACES) between 2017 and 2020.
 
 
   With contributions from key experts in this sub-field of European Studies, it will become a key volume used for those interested in learning the nuts and bolts of differentiation as a mechanism of (dis)integration in the European Union, especially in the light of Brexit. Organised around five key themes, it offers an authoritative ‘encyclopaedia’ of differentiation and addresses questions such as:
@@ -24,5 +28,8 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+summary: "This 800-pages long Handbook offers an in-depth analysis of the
+  phenomenon of differentiation in the European Union. It addresses its roots
+  and consequences, especially in light of Brexit. "
 date: 2022-01-20T21:31:17.586Z
 ---
