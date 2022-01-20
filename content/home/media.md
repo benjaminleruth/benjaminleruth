@@ -14,7 +14,7 @@ design:
 ---
 I regularly comment on contemporary political events, such as domestic and European elections. I worked with several media outlets such as the BBC, STV, The Scotsman, Heart Radio, Vers l'Avenir and Radio France Internationale. In 2016, I offered live comments and analyses on the Brexit referendum for the Belgian francophone television (RTBF). I also contributed to a BBC World Service radio broadcast entitled "[Why do we need the State?](https://www.bbc.co.uk/programmes/p033v73k)" with Timothy Snyder and Adrian Wooldridge. 
 
-Here are some of my recent (written) contributions to the public debate:
+Here are some of my recent contributions to the public debate:
 
 * Libération (France): "[Aux Pays Bas, les sociaux-libéraux rebattent les cartes](https://www.liberation.fr/international/europe/aux-pays-bas-les-sociaux-liberaux-rebattent-les-cartes-20210318_DAQ4BA45X5HMBEA2B4SMXLDXSI/)" (comment on the 2021 Dutch general election results)
 * LN24 (Belgium): live contribution to a special broadcast on the 2021 Dutch general election ([link](https://www.pscp.tv/w/1mnxearZmyPxX))
