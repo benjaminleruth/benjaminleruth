@@ -2,7 +2,10 @@
 title: The Routledge Handbook of Differentiation in the European Union
 publication_types:
   - "5"
-authors: []
+authors:
+  - admin
+  - Stefan Gänzle
+  - Jarle Trondal
 abstract: >-
   The Routledge Handbook of Differentiation in the European Union offers an
   essential collection of ground-breaking chapters reflecting on the causes and
@@ -23,7 +26,7 @@ abstract: >-
 
   This handbook is essential reading and an authoritative reference for scholars, students, researchers and practitioners involved in, and actively concerned about, research in the study of European integration. As European differentiation is multi-faceted and involves a wide range of actors and policies, it will be of further interest to those working on countries and/or in policy areas where differentiation is an increasingly relevant feature.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured.jpg
   focal_point: Smart
@@ -33,3 +36,4 @@ summary: "This 800-pages long Handbook offers an in-depth analysis of the
   and consequences, especially in light of Brexit. "
 date: 2022-01-20T21:31:17.586Z
 ---
+[Find out more on Routledge's website](https://www.routledge.com/The-Routledge-Handbook-of-Differentiation-in-the-European-Union/Leruth-Ganzle-Trondal/p/book/9780367149659)
