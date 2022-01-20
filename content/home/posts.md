@@ -50,5 +50,3 @@ Most recent courses taught (reading lists can be sent on demand):
 > P&S LS 1: French Politics and Society ([LEU064B05](https://www.rug.nl/ocasys/rug//vak/show?code=LEU064B05))
 >
 > Master Seminar: Democratic Innovations ([LYX017M10](https://www.rug.nl/ocasys/rug//vak/show?code=LYX017M10))
-
-![]()
