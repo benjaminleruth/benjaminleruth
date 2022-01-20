@@ -23,7 +23,7 @@ abstract: >-
 
   This handbook is essential reading and an authoritative reference for scholars, students, researchers and practitioners involved in, and actively concerned about, research in the study of European integration. As European differentiation is multi-faceted and involves a wide range of actors and policies, it will be of further interest to those working on countries and/or in policy areas where differentiation is an increasingly relevant feature.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.jpg
   focal_point: Smart
