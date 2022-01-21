@@ -51,7 +51,7 @@ Welcome to my website. I am an Assistant Professor in European Politics and Soci
 
 At the University of Groningen, I act as Programme Coordinator for the [BA in European Languages and Cultures](https://www.rug.nl/bachelors/european-languages-and-cultures/?lang=en), and as Coordinator for the university-wide [Research Network on Democracy and Governance](https://www.rug.nl/sustainable-society/research/democracy-and-governance). I am also a member of the [Young Academy Groningen](https://www.rug.nl/research/young-academy/?lang=en). 
 
-I am also the co-Editor of [Acta Politica](https://www.palgrave.com/gp/journal/41269).
+I am the co-Editor-in-Chief of [Acta Politica](https://www.palgrave.com/gp/journal/41269).
 
 I recently published work focusing on: 
 
