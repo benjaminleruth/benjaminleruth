@@ -58,7 +58,7 @@ experience:
     date_end: '2017-05-31'
     description: |2-
         
-        * Coordinator of the NORFACE-funded 'Welfare State Futures: Our Children's Europe' project, led by Prof. Peter Taylor-Gooby (http://welfsoc.eu)
+        * Coordinator of the NORFACE-funded 'Welfare State Futures: Our Children's Europe' project, led by Prof. Peter Taylor-Gooby (https://blogs.kent.ac.uk/welfsoc/)
         
 
   - title: Teaching Fellow in French and European Politics
