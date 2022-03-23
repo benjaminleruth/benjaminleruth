@@ -21,6 +21,6 @@ Here are some of my recent contributions to the public debate:
 * De Volkskrant (The Netherlands): "[Frankrijk weer de straat op: wat kan Macron leren can Thatcher en Schröder?](https://www.volkskrant.nl/nieuws-achtergrond/frankrijk-weer-de-straat-op-wat-kan-macron-leren-van-thatcher-en-schroder~b3f9a0d1/)" (comment on the 2017 French protests)
 * Sydney Morning Herald (Australia): "[Emmanuel Macron heralds a new era, but can he run a country?](https://www.smh.com.au/world/frances-president-emmanuel-macron-heralded-a-new-era-but-can-he-run-a-country-20170623-gwwx1m.html)"
 
-I am available to provide comments (in English or French) related to my field of expertise (contemporary politics and elections, Euroscepticism, welfare politics and democratic innovations).
+I am available to provide comments (in English or French) related to my field of expertise (contemporary politics and elections, Euroscepticism, welfare policy, and democratic innovations).
 
 ![]()
