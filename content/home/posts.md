@@ -31,7 +31,7 @@ design:
 ---
 Over the past ten years, I have been designing introductory and specialised courses on a wide range of topics and aimed at different audiences, from first-year undergraduate students to senior Australian and Indonesian public servants. 
 
-I am also a regular contributor to the University of Agder's [European Integration Summer School](https://www.uia.no/en/studier/european-integration-summer-school-eiss). I was invited to give guest lectures on welfare politics, Euroscepticism and differentiation in the European Union at the Universities of Auckland (New Zealand), Oslo (Norway), Minho (Portugal) and the Free University of Brussels (Belgium). 
+I am also a regular contributor to the University of Agder's [European Integration Summer School](https://www.uia.no/en/studier/european-integration-summer-school-eiss). I was invited to give guest lectures on comparative welfare policy, Euroscepticism and differentiation at the Universities of Auckland (New Zealand), Oslo (Norway), Minho (Portugal) and the Free University of Brussels (Belgium). 
 
 In my teaching, I always seek to promote the work of female and early career colleagues. The [following syllabus](https://drive.google.com/file/d/1YLTIkr7-U3-s8ZDTzqiVB_ZKMDDEbDZg/view?usp=sharing) (which I developed for a BA2 research seminar on "Crises and Euroscepticism") may be of interest to colleagues seeking to offer a gender-balanced reading list. 
 
@@ -43,7 +43,7 @@ Most recent courses taught (reading lists can be sent on demand):
 >
 > P&S 2: Applied Research Methods ([LEU054P05](https://www.rug.nl/ocasys/rug/vak/show?code=LEU054P05))
 >
-> P&S 5: Research Seminar: Euroscepticism and Differentiation in the European Union ([LEU051B05](https://www.rug.nl/ocasys/rug//vak/show?code=LEU051B05))
+> P&S 5: Research Seminar: Differentiation and Transnational Governance ([LEU051B05](https://www.rug.nl/ocasys/rug//vak/show?code=LEU051B05))
 >
 > P&S 7: Theorizing European and Global Politics 2 ([LEU115B05](https://www.rug.nl/ocasys/rug/vak/show?code=LEU115B05))
 >
