@@ -1,5 +1,6 @@
 ---
-title: Euroscepticism and differentiation in the European Union beyond Brexit
+title: Differentiation in the European Union and the implications of Brexit on
+  transnational governance
 date: 2020-12-31T12:34:35.462Z
 summary: What are the causes and consequences of differentiation in the European
   Union? What impact does Brexit have on patterns of opposition to European
