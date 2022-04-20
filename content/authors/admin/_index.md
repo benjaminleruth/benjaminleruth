@@ -45,7 +45,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Welcome to my website. I am an Assistant Professor in European Politics and Society at the University of Groningen specializing in comparative welfare policy and politics, political long-termism, democratic innovations, transnational governance and differentiation in the European Union. 
+Welcome to my website. I am an Assistant Professor in Politics and Society at the University of Groningen specializing in comparative welfare policy and politics, political long-termism, democratic innovations, transnational governance and differentiation in the European Union. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zVj_6QLLajI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
