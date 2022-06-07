@@ -26,7 +26,7 @@ experience:
     company: University of Groningen
     company_url: 'https://www.rug.nl/staff/b.j.j.leruth/'
     location: Groningen, The Netherlands
-    date_start: '2019'
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
         
@@ -42,8 +42,8 @@ experience:
     company: University of Canberra
     company_url: 'https://www.canberra.edu.au/'
     location: Canberra, Australia
-    date_start: '2017'
-    date_end: '2019'
+    date_start: '2017-06-01'
+    date_end: '2019-08-31'
     description: |2-
         
         * Director of the Master of Public Administration (2017-19)
@@ -54,8 +54,8 @@ experience:
     company: University of Kent
     company_url: 'https://www.kent.ac.uk'
     location: Canterbury, United Kingdom
-    date_start: '2015'
-    date_end: '2017'
+    date_start: '2015-02-01'
+    date_end: '2017-05-31'
     description: |2-
         
         * Coordinator of the NORFACE-funded 'Welfare State Futures: Our Children's Europe' project, led by Prof. Peter Taylor-Gooby (https://blogs.kent.ac.uk/welfsoc/)
@@ -65,8 +65,8 @@ experience:
     company: University of Bath
     company_url: 'https://www.bath.ac.uk'
     location: Bath, United Kingdom
-    date_start: '2014'
-    date_end: '2015'
+    date_start: '2014-09-01'
+    date_end: '2015-01-31'
     description: Fixed-term teaching position
     
 ---
