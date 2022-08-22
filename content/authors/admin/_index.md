@@ -47,11 +47,11 @@ highlight_name: false
 ---
 Welcome to my website. I am an Assistant Professor in Politics and Society at the University of Groningen specializing in comparative welfare policy and politics, political long-termism, democratic innovations, transnational governance and differentiation in the European Union. 
 
+At the University of Groningen, I act as Programme Coordinator for the [BA in European Languages and Cultures](https://www.rug.nl/bachelors/european-languages-and-cultures/?lang=en), and as [Research Coordinator for Democracy and Governance](https://www.rug.nl/sustainable-society/research/democracy-governance/) within the transdisciplinary Agricola School for Sustainable Development. From September 2022 onwards I am the Chair of the [Young Academy Groningen](https://www.rug.nl/research/young-academy/?lang=en). 
+
+I am also co-Editor-in-Chief of [Acta Politica](https://www.palgrave.com/gp/journal/41269).
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zVj_6QLLajI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-At the University of Groningen, I act as Programme Coordinator for the [BA in European Languages and Cultures](https://www.rug.nl/bachelors/european-languages-and-cultures/?lang=en), and as [Research Coordinator for Democracy and Governance](https://www.rug.nl/sustainable-society/research/democracy-governance/) within the transdisciplinary Agricola School for Sustainable Development. I am also a member of the [Young Academy Groningen](https://www.rug.nl/research/young-academy/?lang=en). 
-
-I am the co-Editor-in-Chief of [Acta Politica](https://www.palgrave.com/gp/journal/41269).
 
 I recently published work focusing on: 
 
