@@ -51,7 +51,7 @@ At the University of Groningen, I act as Programme Coordinator for the [BA in Eu
 
 I am also co-Editor-in-Chief of [Acta Politica](https://www.palgrave.com/gp/journal/41269).
 
-Between 2022 and 2025, I am deputy project coordinator and a Work Package leader within the Horizon Europe-funded project entitled "[Rebuilding Governance and Resilience out of the Pandemic](https://doi.org/10.3030/101060825)" (REGROUP), in which we will (among others) conduct mini-publics on trust and disinformation. More information will follow soon.
+Between 2022 and 2025, I am deputy PI and a Work Package leader within the Horizon Europe-funded project entitled "[Rebuilding Governance and Resilience out of the Pandemic](https://doi.org/10.3030/101060825)" (REGROUP), in which we will (among others) conduct mini-publics on trust and disinformation. More information will follow soon.
 
 I recently published work focusing on: 
 
