@@ -1,6 +1,6 @@
 ---
 title: Benjamin Leruth
-role: Assistant Professor (UD1) in European Politics and Society
+role: Assistant Professor (UD1) in Politics and Society
 avatar_filename: avatar.jpg
 bio: ""
 interests:
