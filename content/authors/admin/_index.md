@@ -45,7 +45,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Welcome to my website. I am an Assistant Professor (UD1, equivalent to Senior Lecturer) in Politics and Society at the University of Groningen specializing in comparative welfare policy and politics, political long-termism, democratic innovations, transnational governance and differentiation in the European Union. 
+Welcome to my website. I am an Assistant Professor (UD1, equivalent to Senior Lecturer) in Politics and Society at the University of Groningen specializing in comparative welfare policy and politics, political long-termism, democratic innovations, transnational governance and differentiation. 
 
 At the University of Groningen, I act as Programme Coordinator for the [BA in European Languages and Cultures](https://www.rug.nl/bachelors/european-languages-and-cultures/?lang=en), and as Theme Director on Democracy and Governance within the transdisciplinary [Research School for Sustainable Development](https://www.rug.nl/sustainable-society). Since August 2022 I am the Chair of the [Young Academy Groningen](https://www.rug.nl/research/young-academy/?lang=en). 
 
