@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Assistant Professor in European Politics and Society
+  - title: Assistant Professor in Politics and Society
     company: University of Groningen
     company_url: 'https://www.rug.nl/staff/b.j.j.leruth/'
     location: Groningen, The Netherlands
