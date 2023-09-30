@@ -47,11 +47,11 @@ highlight_name: false
 ---
 Welcome to my website. I am an Assistant Professor (UD1, equivalent to Senior Lecturer) in Politics and Society at the University of Groningen specializing in comparative welfare policy and politics, political long-termism, democratic innovations, transnational governance and differentiation. 
 
-At the University of Groningen, I act as Programme Coordinator for the [BA in European Languages and Cultures](https://www.rug.nl/bachelors/european-languages-and-cultures/?lang=en), and as Theme Director on Democracy and Governance within the transdisciplinary [Research School for Sustainable Development](https://www.rug.nl/sustainable-society). Since August 2022 I am the Chair of the [Young Academy Groningen](https://www.rug.nl/research/young-academy/?lang=en). 
+At the University of Groningen, I held several administrative responsibilities. I acted as Programme Coordinator for the [BA in European Languages and Cultures](https://www.rug.nl/bachelors/european-languages-and-cultures/?lang=en), and as Theme Director on Democracy and Governance within the transdisciplinary [Research School for Sustainable Development](https://www.rug.nl/sustainable-society). I am also an active member of the [Young Academy Groningen](https://www.rug.nl/research/young-academy/?lang=en)hich I chaired during the 2022-23 academic year. 
 
 I am also co-Editor-in-Chief of [Acta Politica](https://www.palgrave.com/gp/journal/41269).
 
-I am deputy scientific coordinator and Work Package leader within the Horizon Europe-funded project entitled "[Rebuilding Governance and Resilience out of the Pandemic](https://regroup-horizon.eu/)" (REGROUP), in which we will (among others) conduct mini-publics on trust and disinformation. 
+I am deputy scientific coordinator and Work Package leader within the Horizon Europe-funded project entitled "[Rebuilding Governance and Resilience out of the Pandemic](https://regroup-horizon.eu/)" (REGROUP), in which we (among others) conduct mini-publics on trust and disinformation across the European Union. You can read more about this in my [Methodological Brief](https://zenodo.org/record/8082723), which elaborates on the multi-level deliberative design we seek to implement.
 
 I recently published work focusing on: 
 
