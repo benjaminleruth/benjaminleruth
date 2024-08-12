@@ -9,6 +9,6 @@ author: admin
 ---
 <!--StartFragment-->
 
-I am an Assistant Professor in Politics and Society at the University of Groningen specializing in comparative welfare policy and politics, political long-termism, democratic innovations, and differentiated European (dis)integration. 
+I am a Senior Lecturer in Public Policy at the University of Melbourne specializing in comparative welfare policy and politics, political long-termism, democratic innovations, and differentiated European (dis)integration.
 
 <!--EndFragment-->
