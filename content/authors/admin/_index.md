@@ -26,7 +26,7 @@ social:
     link: https://www.linkedin.com/in/benleruth/
   - icon: envelope
     icon_pack: fas
-    link: mailto:b.j.j.leruth@rug.nl
+    link: mailto:benjamin.leruth@unimelb.edu.au
 organizations:
   - name: University of Groningen
     url: https://www.rug.nl
