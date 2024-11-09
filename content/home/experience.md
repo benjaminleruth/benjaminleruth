@@ -22,20 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Senior Lecturer in Public Policy
+    company: University of Melbourne
+    company_url: 'https://findanexpert.unimelb.edu.au/profile/1055778-benjamin-leruth'
+    location: Melbourne, Australia
+    date_start: '2024-07-01'
+    date_end: ''
+    description: |2-
+        
+        * Editor of Acta Politica (since 2021)
+
+
+
   - title: Assistant Professor in Politics and Society
     company: University of Groningen
     company_url: 'https://www.rug.nl/staff/b.j.j.leruth/'
     location: Groningen, The Netherlands
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2024-07-31'
     description: |2-
         
         * Editor of Acta Politica (since 2021)
-        * Member of the Young Academy Groningen (since 2021)
-        * Coordinator of the university-wide Democracy and Governance Research Network (since 2021)
-        * Programme coordinator, BA European Languages and Cultures (since 2020)
+        * Chair of the Young Academy Groningen (2022-23)
+        * Coordinator of the Agricola School for Sustainable Development's Democracy and Governance theme (2021-23)
+        * Programme coordinator, BA European Languages and Cultures (2020-23)
         * Programme committee member, BA European Languages and Cultures (2019-20)
-        * Affiliated to the Research Centre for the Study of Democratic Cultures and Politics
+
 
         
   - title: Assistant Professor in Public Administration
