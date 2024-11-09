@@ -46,7 +46,7 @@ Thank you for taking the time to visit my personal website. I am a Senior Lectur
 
 I am currently working on three research projects. 
 
-The first one, "Exploring Political Long-Termism" (funded by the Dutch Research Council), aims at understanding what motivates citizens to favour policies that might be costly in the near future but deliver benefits in the long run. 
+The first one, "Exploring Political Long-Termism" (funded by the Dutch Research Council), aims at understanding what motivates citizens to favour policies that might be costly in the near future but deliver benefits in the long run. I recently published a research agenda piece on the matter: it can be accessed [here](https://onlinelibrary.wiley.com/doi/full/10.1002/cep4.70000).
 
 The second project, entitled "[Rebuilding Governance and Resilience out of the Pandemic](https://regroup-horizon.eu/)" (REGROUP), focuses on learning policy lessons from the Covid-19 pandemic, and I lead a Work Package in which we conduct a transnational, multi-level citizens' jury on citizens' attitudes towards pandemic governance and how to draw lessons from the pandemic for future pandemic management. You can read more about this in my [Methodological Brief](https://zenodo.org/record/8082723), which elaborates on the multi-level deliberative design we implemented, as well as a short [documentary summarising the project's design and results](https://www.youtube.com/watch?v=Ed3a0sT_Scw&ab_channel=REGROUP).
 
