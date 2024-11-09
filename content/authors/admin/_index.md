@@ -1,6 +1,6 @@
 ---
 title: Benjamin Leruth
-role: Assistant Professor (UD1) in Politics and Society
+role: Senior Lecturer in Public Policy
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -13,9 +13,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=xJI3JgUAAAAJ&hl=en
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/BenLeruth
   - display:
       header: false
     icon_pack: ai
@@ -28,8 +25,8 @@ social:
     icon_pack: fas
     link: mailto:benjamin.leruth@unimelb.edu.au
 organizations:
-  - name: University of Groningen
-    url: https://www.rug.nl
+  - name: University of Melbourne
+    url: https://findanexpert.unimelb.edu.au/profile/1055778-benjamin-leruth
 education:
   courses:
     - course: PhD in Political Science
@@ -55,7 +52,7 @@ The second project, entitled "[Rebuilding Governance and Resilience out of the P
 
 The third project focuses on patterns of welfare state opposition, with a particular focus on welfare Euroscepticism.
 
-I am also co-Editor-in-Chief of [Acta Politica](https://www.palgrave.com/gp/journal/41269).
+I am also the Editor-in-Chief of [Acta Politica](https://www.palgrave.com/gp/journal/41269).
 
 I recently published work focusing on: 
 
