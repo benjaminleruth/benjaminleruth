@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Senior Lecturer in Public Policy
+  - title: Senior Lecturer in Public Policy
     company: University of Melbourne
     company_url: 'https://findanexpert.unimelb.edu.au/profile/1055778-benjamin-leruth'
     location: Melbourne, Australia
