@@ -48,9 +48,9 @@ I am currently working on three research projects.
 
 The first one, "Exploring Political Long-Termism" (funded by the Dutch Research Council), aims at understanding what motivates citizens to favour policies that might be costly in the near future but deliver benefits in the long run. 
 
-The second project, entitled "[Rebuilding Governance and Resilience out of the Pandemic](https://regroup-horizon.eu/)" (REGROUP), focuses on learning policy lessons from the Covid-19 pandemic, and I lead a Work Package in which we conduct a transnational, multi-level citizens' jury on citizens' attitudes towards pandemic governance. You can read more about this in my [Methodological Brief](https://zenodo.org/record/8082723), which elaborates on the multi-level deliberative design we seek to implement. 
+The second project, entitled "[Rebuilding Governance and Resilience out of the Pandemic](https://regroup-horizon.eu/)" (REGROUP), focuses on learning policy lessons from the Covid-19 pandemic, and I lead a Work Package in which we conduct a transnational, multi-level citizens' jury on citizens' attitudes towards pandemic governance and how to draw lessons from the pandemic for future pandemic management. You can read more about this in my [Methodological Brief](https://zenodo.org/record/8082723), which elaborates on the multi-level deliberative design we implemented, as well as a short [documentary summarising the project's design and results](https://www.youtube.com/watch?v=Ed3a0sT_Scw&ab_channel=REGROUP).
 
-The third project focuses on patterns of welfare state opposition, with a particular focus on welfare Euroscepticism.
+The third project focuses on patterns of welfare state opposition. This resulted in the publication of a [special issue of the Journal of European Social Policy](https://journals.sagepub.com/toc/espa/34/2), co-edited with Gianna Maria Eick.
 
 I am also the Editor-in-Chief of [Acta Politica](https://www.palgrave.com/gp/journal/41269).
 
